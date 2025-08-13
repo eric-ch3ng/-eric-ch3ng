@@ -1,2 +1,2 @@
-# -eric-ch3ng
+#eric-ch3ng
 personal repo
